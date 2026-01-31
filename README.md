@@ -9,7 +9,7 @@ This project involves a comprehensive data analysis of **Blinkit** (formerly Gro
 The dashboard provides actionable insights into sales trends, item visibility, and outlet performance to assist in data-driven decision-making.
 
 ## 📸 Dashboard Preview
-![Blinkit Dashboard](Screenshot%202026-01-31%20123136.jpg)
+![Blinkit Dashboard](https://github.com/AdarshPandey-22/Blinkit-Dashboard/blob/main/Screenshot%202026-01-31%20123136.png)
 
 ## 🎯 Business Requirements & Problem Statement
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
