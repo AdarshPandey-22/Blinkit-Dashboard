@@ -1,7 +1,7 @@
 # Blinkit Data Analysis Dashboard 🛒📊
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge)
+
 
 ## 📖 Project Overview
 This project involves a comprehensive data analysis of **Blinkit** (formerly Grofers), India's last-minute app delivery service. The goal was to build an interactive dashboard in **Power BI** to analyze sales performance, customer satisfaction, and inventory distribution across various outlet types and sizes.
